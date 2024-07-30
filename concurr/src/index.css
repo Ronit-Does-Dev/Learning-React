@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: Inter, system-ui, sans-serif;
+  }
+}
+
+body {
+  cursor: url('/circle-dashed-svgrepo-com.png') 16 16, auto;
+}
