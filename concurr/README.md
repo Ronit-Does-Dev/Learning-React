@@ -1,8 +1,14 @@
-# React + Vite
+#ConCurr
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Check and Convert between Currencies.##
+<ol>
+<li>Learn to develop and deploy react projects</li>
+<li>Create Custom Hooks using APIs</li>
+<li>Learn Async Programming and fetching data from URLs</li>
+<li>Form Handling</li>
+<li>React Router</li>
+<li>Intergrate Lottie Animations</li>
+<li>Using Framer Motion for animation</li>
+<li>Custom Cursor</li>
+<li>Svg Animations</li>
+</ol>
