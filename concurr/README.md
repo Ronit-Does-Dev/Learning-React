@@ -1,6 +1,6 @@
-#ConCurr
+# ConCurr
 
-##Check and Convert between Currencies.##
+## Check and Convert between Currencies. ##
 <ol>
 <li>Learn to develop and deploy react projects</li>
 <li>Create Custom Hooks using APIs</li>
