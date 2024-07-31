@@ -15,9 +15,9 @@ function NavBar() {
         <a href="/history" className="hover:text-gray-400">History</a>
       </div>
 
-      <div className="h-[100%] w-[20%] hidden min-[850px]:flex justify-center items-center text-center text-black text-[22px] font-regular">
+      {/* <div className="h-[100%] w-[20%] hidden min-[850px]:flex justify-center items-center text-center text-black text-[22px] font-regular">
         <a href="tel:+91-780-185-9576">+91 7801859576</a>
-      </div>
+      </div> */}
       
       {/* Log In Button */}
       <div className="h-[100%] w-[20%] flex justify-center items-center text-center text-black bg-[#FAFFE6] hover:bg-[#f2ffbd] text-[22px] font-regular">
